@@ -1,6 +1,7 @@
-# Demand_Forecasting
+# Demand Forecasting
 
 Time series analysis of Brick and Mortar sales data
+![ETS Model](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 In this repository I explore times series forecasting methods and models for forecasting product demand.
 Anticipating demand for products is a key requirement of any successful supply chain. Having an accurate estimate of demand can help an organization plan and control its supply chain to keep the customers happy with a certain degree of reliability of performance. Unanticipated changes in demand can cause stress on the supply chain eventually leading to customer dissatisfaction and eventually churn.
