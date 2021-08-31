@@ -8,8 +8,9 @@ Anticipating demand for products is a key requirement of any successful supply c
 We will explore two different ways to forecast:
 
 - Time series analysis of the sales data: Studying the data with respect to itself over time 
-..- ETS Models
-..* ARIMA Models
+
+.. - ETS Models
+.. - ARIMA Models
 
 Supervised learning - Use date time as features along with features derived from historical values of the data.
 ..* Linear Regression Model
