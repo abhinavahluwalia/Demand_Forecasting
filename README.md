@@ -17,4 +17,4 @@ We will explore two different ways to forecast:
 * Linear Regression Model
 * LightGBM Model
 
-he data used is obtained from https://www.kaggle.com/c/demand-forecasting-kernels-only/data which provides the sales data for brick and mortar stores.
+The data used is obtained from https://www.kaggle.com/c/demand-forecasting-kernels-only/data which provides the sales data for brick and mortar stores.
